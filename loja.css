@@ -1,0 +1,21 @@
+span{
+    color:white;
+}
+
+ul{
+    color: black;
+}
+
+h1{
+    color: goldenrod;
+    background-color: black;
+}
+
+h2{
+    color: black;
+    background-color: goldenrod;
+}
+
+body{
+    background-image: url("gradient_bg.png");
+}
